@@ -1,4 +1,6 @@
-浏览器插件 [SwitchyOmega](https://github.com/FelisCatus/SwitchyOmega "FelisCatus/SwitchyOmega") 的配置备份，支持三种情景模式，规则列表网址可自动更新。
+[ZeroOmega](https://github.com/zero-peak/ZeroOmega "zero-peak/ZeroOmega") 是 [SwitchyOmega](https://github.com/FelisCatus/SwitchyOmega "FelisCatus/SwitchyOmega") 的一个更新分支，其界面和使用方式与 SwitchyOmega 相同。原代理插件 SwitchyOmega 不兼容 manifest V3，故不再使用。
+
+浏览器插件 ZeroOmega 的配置备份，支持三种情景模式，规则列表网址可自动更新。
 
 | 情景模式 | 类型 | 说明 | 参考|
 | - | - | - | - |
@@ -8,19 +10,19 @@
 
 # 使用方法
 
-## 安装 SwitchyOmega
+## 安装 ZeroOmega
 
-SwitchyOmega 插件适用于 Chromium 或基于 Chromium 的浏览器。可通过以下任一方式安装：
+适用于基于 Chromium 的浏览器的 ZeroOmega 插件，可通过以下任一方式安装：
 
--   [Chrome Web Store](https://chrome.google.com/webstore/detail/proxy-switchyomega/padekgcemlokbadohgkifijomclgjgif "Proxy SwitchyOmega - Chrome Web Store")
+-   [Chrome Web Store](https://chromewebstore.google.com/detail/proxy-switchyomega-3-zero/pfnededegaaopdmhkdmcofjmoldfiped "Proxy SwitchyOmega 3 (ZeroOmega) - Chrome Web Store")
 
--   [Chrome扩展 - Crx搜搜](https://www.crxsoso.com/webstore/detail/padekgcemlokbadohgkifijomclgjgif "Proxy SwitchyOmega | Chrome扩展 - Crx搜搜")
+-   [Chrome扩展 - Crx搜搜](https://www.crxsoso.com/webstore/detail/pfnededegaaopdmhkdmcofjmoldfiped "Proxy SwitchyOmega 3 (ZeroOmega) | Chrome扩展 - Crx搜搜")
 
--   [Github Releases](https://github.com/FelisCatus/SwitchyOmega/releases "Releases · FelisCatus/SwitchyOmega")
+-   [Github Releases](https://github.com/zero-peak/ZeroOmega/releases "Releases · zero-peak/ZeroOmega")
 
 ## 导入备份
 
-打开 SwitchyOmega 选项，
+打开 ZeroOmega 选项，
 
 ![](Pic/1.png)
 
